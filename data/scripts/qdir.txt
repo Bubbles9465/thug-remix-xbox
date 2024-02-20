@@ -1,4 +1,4 @@
-c:\skate5\data\scripts\thugdeluxe\elev.qb
+c:\skate5\data\scripts\thugremix\dev_toolbox.qb
 c:\skate5\data\scripts\aaaaloopchecker.qb
 c:\skate5\data\scripts\allanims.qb
 c:\skate5\data\scripts\cas_ped_f.qb
