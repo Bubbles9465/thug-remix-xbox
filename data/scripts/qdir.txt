@@ -30,6 +30,7 @@ c:\skate5\data\scripts\engine\menu\panelmessage.qb
 c:\skate5\data\scripts\engine\menu\scalingmenu.qb
 c:\skate5\data\scripts\engine\menu\sliderbar.qb
 c:\skate5\data\scripts\engine\menu\timeofday.qb
+c:\skate5\data\scripts\engine\menu\weather.qb
 c:\skate5\data\scripts\game\animevents.qb
 c:\skate5\data\scripts\game\animtags.qb
 c:\skate5\data\scripts\game\betting_guy.qb
