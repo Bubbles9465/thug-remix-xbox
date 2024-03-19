@@ -6,7 +6,12 @@ Requirements to play on PC
 -------------------------------
 Xemu: https://xemu.app/
 
-XISO: https://archive.org/details/xdvdmulleterv10.2beta You will need a copy of Tony Hawk's Underground to dump the files. 
+
+Building XISO:
+
+You will need a copy of Tony Hawk's Underground to dump the files.
+
+https://archive.org/details/xdvdmulleterv10.2beta 
 
 
 
