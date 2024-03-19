@@ -15,7 +15,7 @@ https://archive.org/details/xdvdmulleterv10.2beta
 1. Select "Build/Rebuild an ISO"
 2. Select "Load local folder", broswe your main folder where default.xbe is located, and select "Next"
 3. Select "Create Standard ISO (XBox 1 or Xtreme5+) and select "Next"
-4. Select "Leave original default.xbe" and select "Next
+4. Select "Leave original default.xbe" and select "Next"
 5. Select "Optimize for disc size > small as possible", check mark "Qwix style Double Optimisation (folders first in ISO), and select "Next"
 6. Select "Make ISO"
 
